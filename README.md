@@ -1,8 +1,36 @@
-# React + Vite
+# OAuth2 Manager with PocketBase & React (Work in Progress)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a **work-in-progress** OAuth2 authentication manager built with **React** and **PocketBase**. It will allow users to log in via multiple OAuth2 providers (e.g., Google, GitHub) and securely store authentication data in PocketBase.
 
-Currently, two official plugins are available:
+## Current Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+✅ Basic OAuth2 authentication
+✅ User session handling (login/logout)
+✅ PocketBase integration
+
+## Upcoming Features
+
+🔧 User profile management
+🔧 UI improvements
+🔧 Support for more OAuth2 providers
+
+## Setup
+
+1. Install dependencies:
+   ```sh
+   npm install
+   ```
+2. Start PocketBase:
+   ```sh
+   ./pocketbase serve
+   ```
+3. Run the React app:
+   ```sh
+   npm run dev
+   ```
+
+🚀 **Still in development – contributions & feedback welcome!**
+
+---
+
+Falls du spezifische Features hervorheben willst, sag Bescheid! 😊
