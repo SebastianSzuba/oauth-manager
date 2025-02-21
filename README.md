@@ -30,7 +30,3 @@ This project is a **work-in-progress** OAuth2 authentication manager built with 
    ```
 
 🚀 **Still in development – contributions & feedback welcome!**
-
----
-
-Falls du spezifische Features hervorheben willst, sag Bescheid! 😊
