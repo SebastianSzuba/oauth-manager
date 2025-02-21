@@ -41,7 +41,7 @@ function Home() {
         </div>
       ) : (
         <div>
-          <button onClick={() => loginWithOAuth("google")}>Login mit Google</button>
+
           <button onClick={() => loginWithOAuth("github")}>Login mit GitHub</button>
         </div>
       )}
